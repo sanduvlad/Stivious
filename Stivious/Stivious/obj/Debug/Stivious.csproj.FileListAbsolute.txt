@@ -1,0 +1,155 @@
+c:\users\vlad.sandu\documents\visual studio 2015\Projects\Stivious\Stivious\bin\Debug\Stivious.exe.config
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\bin\Debug\Stivious.exe
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\bin\Debug\Stivious.pdb
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\MainWindow.g.cs
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\App.g.cs
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.cache
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.lref
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\MainWindow.baml
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious.g.resources
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious.Properties.Resources.resources
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious.csproj.GenerateResource.Cache
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious.exe
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious.pdb
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\bin\Debug\NAudio.dll
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\bin\Debug\NAudio.xml
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious.csprojResolveAssemblyReference.cache
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\bin\Debug\resources\perixbcy.png
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\bin\Debug\resources\repeat-icon.png
+C:\Users\vlad.sandu\Documents\Visual Studio 2015\Projects\Stivious\Stivious\obj\Debug\Stivious_Content.g.cs
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\bin\Debug\Stivious.exe.config
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.exe
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.pdb
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\bin\Debug\resources\perixbcy.png
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\bin\Debug\resources\repeat-icon.png
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\bin\Debug\Stivious.exe
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\bin\Debug\Stivious.pdb
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\bin\Debug\NAudio.dll
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\bin\Debug\NAudio.xml
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\App.g.cs
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious_Content.g.cs
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.cache
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.lref
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\MainWindow.baml
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.g.resources
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.Properties.Resources.resources
+C:\Users\Vlad\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.csproj.GenerateResource.Cache
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\bin\Debug\resources\perixbcy.png
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\bin\Debug\resources\repeat-icon.png
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\bin\Debug\Stivious.exe.config
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\bin\Debug\Stivious.exe
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\bin\Debug\Stivious.pdb
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\bin\Debug\NAudio.dll
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\bin\Debug\NAudio.xml
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.csprojResolveAssemblyReference.cache
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\MainWindow.g.cs
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\App.g.cs
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious_Content.g.cs
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.cache
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.lref
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\MainWindow.baml
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.g.resources
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.Properties.Resources.resources
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.csproj.GenerateResource.Cache
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.exe
+C:\Users\vlad.sandu\OneDrive\New folder\Stivious\Stivious\obj\Debug\Stivious.pdb
+D:\Personal Projects\Stivious\Stivious\bin\Debug\Stivious.exe.config
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious.exe
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious.pdb
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious.csprojResolveAssemblyReference.cache
+D:\Personal Projects\Stivious\Stivious\obj\Debug\MainWindow.g.cs
+D:\Personal Projects\Stivious\Stivious\obj\Debug\App.g.cs
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious_Content.g.cs
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.cache
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.lref
+D:\Personal Projects\Stivious\Stivious\bin\Debug\resources\perixbcy.png
+D:\Personal Projects\Stivious\Stivious\bin\Debug\resources\repeat-icon.png
+D:\Personal Projects\Stivious\Stivious\bin\Debug\Stivious.exe
+D:\Personal Projects\Stivious\Stivious\bin\Debug\Stivious.pdb
+D:\Personal Projects\Stivious\Stivious\bin\Debug\NAudio.dll
+D:\Personal Projects\Stivious\Stivious\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Personal Projects\Stivious\Stivious\bin\Debug\NAudio.xml
+D:\Personal Projects\Stivious\Stivious\obj\Debug\MainWindow.baml
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious.g.resources
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious.Properties.Resources.resources
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious.csproj.GenerateResource.Cache
+D:\Personal Projects\Stivious\Stivious\obj\Debug\Stivious.ScrollBarOriginal.resources
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\resources\perixbcy.png
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\resources\repeat-icon.png
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.config
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.pdb
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.dll
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.xml
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\App.g.cs
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_Content.g.cs
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.cache
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.lref
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\MainWindow.baml
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.g.resources
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.Properties.Resources.resources
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.ScrollBarOriginal.resources
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.csproj.GenerateResource.Cache
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.exe
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.pdb
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.CodeAnalysisLog.xml
+C:\Users\Vlad\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.lastcodeanalysissucceeded
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.config
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\resources\waveFormWall.jpg
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\resources\perixbcy.png
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\resources\repeat-icon.png
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.pdb
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.CodeAnalysisLog.xml
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.lastcodeanalysissucceeded
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.dll
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.xml
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\MainWindow.g.cs
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\App.g.cs
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_Content.g.cs
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.cache
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.lref
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\MainWindow.baml
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.g.resources
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.Properties.Resources.resources
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.ScrollBarOriginal.resources
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.csproj.GenerateResource.Cache
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.exe
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.pdb
+C:\Users\vlad.sandu\OneDrive\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.csprojResolveAssemblyReference.cache
+D:\Stivious Project\Stivious\Stivious\bin\Debug\resources\Akg-Headphones-68997632.jpg
+D:\Stivious Project\Stivious\Stivious\bin\Debug\resources\shards_stone_background_light_85542_2560x1600.jpg
+D:\Stivious Project\Stivious\Stivious\bin\Debug\resources\waveFormWall.jpg
+D:\Stivious Project\Stivious\Stivious\bin\Debug\resources\perixbcy.png
+D:\Stivious Project\Stivious\Stivious\bin\Debug\resources\repeat-icon.png
+D:\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.config
+D:\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe
+D:\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.pdb
+D:\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.CodeAnalysisLog.xml
+D:\Stivious Project\Stivious\Stivious\bin\Debug\Stivious.exe.lastcodeanalysissucceeded
+D:\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.dll
+D:\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Stivious Project\Stivious\Stivious\bin\Debug\NAudio.xml
+D:\Stivious Project\Stivious\Stivious\obj\Debug\MainWindow.g.cs
+D:\Stivious Project\Stivious\Stivious\obj\Debug\App.g.cs
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_Content.g.cs
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.cache
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious_MarkupCompile.lref
+D:\Stivious Project\Stivious\Stivious\obj\Debug\MainWindow.baml
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.g.resources
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.Properties.Resources.resources
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.ScrollBarOriginal.resources
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.csproj.GenerateResource.Cache
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.csproj.CoreCompileInputs.cache
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.exe
+D:\Stivious Project\Stivious\Stivious\obj\Debug\Stivious.pdb
+D:\Stivious Project\Stivious\Stivious\bin\Debug\resources\logo.ico

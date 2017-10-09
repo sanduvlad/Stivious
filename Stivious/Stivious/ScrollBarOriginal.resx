@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Brushes" xml:space="preserve">
+    <value>&lt;!-- Fill Brushes --&gt;
+
+&lt;LinearGradientBrush x:Key="NormalBrush" StartPoint="0,0" EndPoint="0,1"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#FFF" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#CCC" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;LinearGradientBrush x:Key="HorizontalNormalBrush" StartPoint="0,0" EndPoint="1,0"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#FFF" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#CCC" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;LinearGradientBrush x:Key="LightBrush" StartPoint="0,0" EndPoint="0,1"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#FFF" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#EEE" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;LinearGradientBrush x:Key="HorizontalLightBrush" StartPoint="0,0" EndPoint="1,0"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#FFF" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#EEE" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;LinearGradientBrush x:Key="DarkBrush" StartPoint="0,0" EndPoint="0,1"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#FFF" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#AAA" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;LinearGradientBrush x:Key="PressedBrush" StartPoint="0,0" EndPoint="0,1"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#BBB" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#EEE" Offset="0.1"/&gt;
+      &lt;GradientStop Color="#EEE" Offset="0.9"/&gt;
+      &lt;GradientStop Color="#FFF" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;SolidColorBrush x:Key="DisabledForegroundBrush" Color="#888" /&gt;
+
+&lt;SolidColorBrush x:Key="DisabledBackgroundBrush" Color="#EEE" /&gt;
+
+&lt;SolidColorBrush x:Key="WindowBackgroundBrush" Color="#FFF" /&gt;
+
+&lt;SolidColorBrush x:Key="SelectedBackgroundBrush" Color="#DDD" /&gt;
+
+&lt;!-- Border Brushes --&gt;
+
+&lt;LinearGradientBrush x:Key="NormalBorderBrush" StartPoint="0,0" EndPoint="0,1"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#CCC" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#444" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;LinearGradientBrush x:Key="HorizontalNormalBorderBrush" StartPoint="0,0" EndPoint="1,0"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#CCC" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#444" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;LinearGradientBrush x:Key="DefaultedBorderBrush" StartPoint="0,0" EndPoint="0,1"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#777" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#000" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;LinearGradientBrush x:Key="PressedBorderBrush" StartPoint="0,0" EndPoint="0,1"&gt;
+  &lt;GradientBrush.GradientStops&gt;
+    &lt;GradientStopCollection&gt;
+      &lt;GradientStop Color="#444" Offset="0.0"/&gt;
+      &lt;GradientStop Color="#888" Offset="1.0"/&gt;
+    &lt;/GradientStopCollection&gt;
+  &lt;/GradientBrush.GradientStops&gt;
+&lt;/LinearGradientBrush&gt;
+
+&lt;SolidColorBrush x:Key="DisabledBorderBrush" Color="#AAA" /&gt;
+
+&lt;SolidColorBrush x:Key="SolidBorderBrush" Color="#888" /&gt;
+
+&lt;SolidColorBrush x:Key="LightBorderBrush" Color="#AAA" /&gt;
+
+&lt;!-- Miscellaneous Brushes --&gt;
+&lt;SolidColorBrush x:Key="GlyphBrush" Color="#444" /&gt;
+
+&lt;SolidColorBrush x:Key="LightColorBrush" Color="#DDD" /&gt;</value>
+  </data>
+  <data name="ScrollBarControlTemplate" xml:space="preserve">
+    <value>&lt;Style x:Key="ScrollBarLineButton" TargetType="{x:Type RepeatButton}"&gt;
+  &lt;Setter Property="SnapsToDevicePixels" Value="True"/&gt;
+  &lt;Setter Property="OverridesDefaultStyle" Value="true"/&gt;
+  &lt;Setter Property="Focusable" Value="false"/&gt;
+  &lt;Setter Property="Template"&gt;
+    &lt;Setter.Value&gt;
+      &lt;ControlTemplate TargetType="{x:Type RepeatButton}"&gt;
+        &lt;Border 
+          Name="Border"
+          Margin="1" 
+          CornerRadius="2" 
+          Background="{StaticResource NormalBrush}"
+          BorderBrush="{StaticResource NormalBorderBrush}"
+          BorderThickness="1"&gt;
+          &lt;Path 
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Fill="{StaticResource GlyphBrush}"
+            Data="{Binding Path=Content,RelativeSource={RelativeSource TemplatedParent}}" /&gt;
+        &lt;/Border&gt;
+        &lt;ControlTemplate.Triggers&gt;
+          &lt;Trigger Property="IsPressed" Value="true"&gt;
+            &lt;Setter TargetName="Border" Property="Background" Value="{StaticResource PressedBrush}" /&gt;
+          &lt;/Trigger&gt;
+          &lt;Trigger Property="IsEnabled" Value="false"&gt;
+            &lt;Setter Property="Foreground" Value="{StaticResource DisabledForegroundBrush}"/&gt;
+          &lt;/Trigger&gt;
+        &lt;/ControlTemplate.Triggers&gt;
+      &lt;/ControlTemplate&gt;
+    &lt;/Setter.Value&gt;
+  &lt;/Setter&gt;
+&lt;/Style&gt;
+
+&lt;Style x:Key="ScrollBarPageButton" TargetType="{x:Type RepeatButton}"&gt;
+  &lt;Setter Property="SnapsToDevicePixels" Value="True"/&gt;
+  &lt;Setter Property="OverridesDefaultStyle" Value="true"/&gt;
+  &lt;Setter Property="IsTabStop" Value="false"/&gt;
+  &lt;Setter Property="Focusable" Value="false"/&gt;
+  &lt;Setter Property="Template"&gt;
+    &lt;Setter.Value&gt;
+      &lt;ControlTemplate TargetType="{x:Type RepeatButton}"&gt;
+        &lt;Border Background="Transparent" /&gt;
+      &lt;/ControlTemplate&gt;
+    &lt;/Setter.Value&gt;
+  &lt;/Setter&gt;
+&lt;/Style&gt;
+
+&lt;Style x:Key="ScrollBarThumb" TargetType="{x:Type Thumb}"&gt;
+  &lt;Setter Property="SnapsToDevicePixels" Value="True"/&gt;
+  &lt;Setter Property="OverridesDefaultStyle" Value="true"/&gt;
+  &lt;Setter Property="IsTabStop" Value="false"/&gt;
+  &lt;Setter Property="Focusable" Value="false"/&gt;
+  &lt;Setter Property="Template"&gt;
+    &lt;Setter.Value&gt;
+      &lt;ControlTemplate TargetType="{x:Type Thumb}"&gt;
+        &lt;Border 
+          CornerRadius="2" 
+          Background="{TemplateBinding Background}"
+          BorderBrush="{TemplateBinding BorderBrush}"
+          BorderThickness="1" /&gt;
+      &lt;/ControlTemplate&gt;
+    &lt;/Setter.Value&gt;
+  &lt;/Setter&gt;
+&lt;/Style&gt;
+
+&lt;ControlTemplate x:Key="VerticalScrollBar" TargetType="{x:Type ScrollBar}"&gt;
+  &lt;Grid &gt;
+    &lt;Grid.RowDefinitions&gt;
+      &lt;RowDefinition MaxHeight="18"/&gt;
+      &lt;RowDefinition Height="0.00001*"/&gt;
+      &lt;RowDefinition MaxHeight="18"/&gt;
+    &lt;/Grid.RowDefinitions&gt;
+    &lt;Border
+      Grid.RowSpan="3"
+      CornerRadius="2" 
+      Background="#F0F0F0" /&gt;
+    &lt;RepeatButton 
+      Grid.Row="0"                           
+      Style="{StaticResource ScrollBarLineButton}"
+      Height="18"
+      Command="ScrollBar.LineUpCommand"
+      Content="M 0 4 L 8 4 L 4 0 Z" /&gt;
+    &lt;Track 
+      Name="PART_Track"
+      Grid.Row="1"
+      IsDirectionReversed="true"&gt;
+      &lt;Track.DecreaseRepeatButton&gt;
+        &lt;RepeatButton 
+          Style="{StaticResource ScrollBarPageButton}"
+          Command="ScrollBar.PageUpCommand" /&gt;
+      &lt;/Track.DecreaseRepeatButton&gt;
+      &lt;Track.Thumb&gt;
+        &lt;Thumb 
+          Style="{StaticResource ScrollBarThumb}" 
+          Margin="1,0,1,0"  
+          Background="{StaticResource HorizontalNormalBrush}"
+          BorderBrush="{StaticResource HorizontalNormalBorderBrush}" /&gt;
+      &lt;/Track.Thumb&gt;
+      &lt;Track.IncreaseRepeatButton&gt;
+        &lt;RepeatButton 
+          Style="{StaticResource ScrollBarPageButton}"
+          Command="ScrollBar.PageDownCommand" /&gt;
+      &lt;/Track.IncreaseRepeatButton&gt;
+    &lt;/Track&gt;
+    &lt;RepeatButton 
+      Grid.Row="3" 
+      Style="{StaticResource ScrollBarLineButton}"
+      Height="18"
+      Command="ScrollBar.LineDownCommand"
+      Content="M 0 0 L 4 4 L 8 0 Z"/&gt;
+  &lt;/Grid&gt;
+&lt;/ControlTemplate&gt;
+
+&lt;ControlTemplate x:Key="HorizontalScrollBar" TargetType="{x:Type ScrollBar}"&gt;
+  &lt;Grid &gt;
+    &lt;Grid.ColumnDefinitions&gt;
+      &lt;ColumnDefinition MaxWidth="18"/&gt;
+      &lt;ColumnDefinition Width="0.00001*"/&gt;
+      &lt;ColumnDefinition MaxWidth="18"/&gt;
+    &lt;/Grid.ColumnDefinitions&gt;
+    &lt;Border
+      Grid.ColumnSpan="3"
+      CornerRadius="2" 
+      Background="#F0F0F0" /&gt;
+    &lt;RepeatButton 
+      Grid.Column="0"                           
+      Style="{StaticResource ScrollBarLineButton}"
+      Width="18"
+      Command="ScrollBar.LineLeftCommand"
+      Content="M 4 0 L 4 8 L 0 4 Z" /&gt;
+    &lt;Track 
+      Name="PART_Track"
+      Grid.Column="1"
+      IsDirectionReversed="False"&gt;
+      &lt;Track.DecreaseRepeatButton&gt;
+        &lt;RepeatButton 
+          Style="{StaticResource ScrollBarPageButton}"
+          Command="ScrollBar.PageLeftCommand" /&gt;
+      &lt;/Track.DecreaseRepeatButton&gt;
+      &lt;Track.Thumb&gt;
+        &lt;Thumb 
+          Style="{StaticResource ScrollBarThumb}" 
+          Margin="0,1,0,1"  
+          Background="{StaticResource NormalBrush}"
+          BorderBrush="{StaticResource NormalBorderBrush}" /&gt;
+      &lt;/Track.Thumb&gt;
+      &lt;Track.IncreaseRepeatButton&gt;
+        &lt;RepeatButton 
+          Style="{StaticResource ScrollBarPageButton}"
+          Command="ScrollBar.PageRightCommand" /&gt;
+      &lt;/Track.IncreaseRepeatButton&gt;
+    &lt;/Track&gt;
+    &lt;RepeatButton 
+      Grid.Column="3" 
+      Style="{StaticResource ScrollBarLineButton}"
+      Width="18"
+      Command="ScrollBar.LineRightCommand"
+      Content="M 0 0 L 4 4 L 0 8 Z"/&gt;
+  &lt;/Grid&gt;
+&lt;/ControlTemplate&gt;
+
+&lt;Style x:Key="{x:Type ScrollBar}" TargetType="{x:Type ScrollBar}"&gt;
+  &lt;Setter Property="SnapsToDevicePixels" Value="True"/&gt;
+  &lt;Setter Property="OverridesDefaultStyle" Value="true"/&gt;
+  &lt;Style.Triggers&gt;
+    &lt;Trigger Property="Orientation" Value="Horizontal"&gt;
+      &lt;Setter Property="Width" Value="Auto"/&gt;
+      &lt;Setter Property="Height" Value="18" /&gt;
+      &lt;Setter Property="Template" Value="{StaticResource HorizontalScrollBar}" /&gt;
+    &lt;/Trigger&gt;
+    &lt;Trigger Property="Orientation" Value="Vertical"&gt;
+      &lt;Setter Property="Width" Value="18"/&gt;
+      &lt;Setter Property="Height" Value="Auto" /&gt;
+      &lt;Setter Property="Template" Value="{StaticResource VerticalScrollBar}" /&gt;
+    &lt;/Trigger&gt;
+  &lt;/Style.Triggers&gt;
+&lt;/Style&gt;</value>
+  </data>
+  <data name="ScrollBarViewer" xml:space="preserve">
+    <value>&lt;Style x:Key="LeftScrollViewer" TargetType="{x:Type ScrollViewer}"&gt;
+  &lt;Setter Property="OverridesDefaultStyle" Value="True"/&gt;
+  &lt;Setter Property="Template"&gt;
+    &lt;Setter.Value&gt;
+      &lt;ControlTemplate TargetType="{x:Type ScrollViewer}"&gt;
+        &lt;Grid&gt;
+          &lt;Grid.ColumnDefinitions&gt;
+            &lt;ColumnDefinition Width="Auto"/&gt;
+            &lt;ColumnDefinition/&gt;
+          &lt;/Grid.ColumnDefinitions&gt;
+          &lt;Grid.RowDefinitions&gt;
+            &lt;RowDefinition/&gt;
+            &lt;RowDefinition Height="Auto"/&gt;
+          &lt;/Grid.RowDefinitions&gt;
+
+          &lt;ScrollContentPresenter Grid.Column="1"/&gt;
+
+          &lt;ScrollBar Name="PART_VerticalScrollBar"
+            Value="{TemplateBinding VerticalOffset}"
+            Maximum="{TemplateBinding ScrollableHeight}"
+            ViewportSize="{TemplateBinding ViewportHeight}"
+            Visibility="{TemplateBinding ComputedVerticalScrollBarVisibility}"/&gt;
+          &lt;ScrollBar Name="PART_HorizontalScrollBar"
+            Orientation="Horizontal"
+            Grid.Row="1"
+            Grid.Column="1"
+            Value="{TemplateBinding HorizontalOffset}"
+            Maximum="{TemplateBinding ScrollableWidth}"
+            ViewportSize="{TemplateBinding ViewportWidth}"
+            Visibility="{TemplateBinding ComputedHorizontalScrollBarVisibility}"/&gt;
+          
+        &lt;/Grid&gt;
+      &lt;/ControlTemplate&gt;
+    &lt;/Setter.Value&gt;
+  &lt;/Setter&gt;
+&lt;/Style&gt;</value>
+  </data>
+</root>
